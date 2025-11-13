@@ -1,0 +1,9 @@
+﻿  Profile.cpp
+  TableSorter.cpp
+C:\Users\Dmitry\source\repos\TextFileSorter\TextFileSorter\TableSorter.cpp(33,35): warning C4101: e: неиспользованная локальная переменная
+  TextFileSorter.cpp
+  Создание кода
+  Previous IPDB not found, fall back to full compilation.
+  All 1155 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Создание кода завершено
+  TextFileSorter.vcxproj -> C:\Users\Dmitry\source\repos\TextFileSorter\x64\Release\TextFileSorter.exe
